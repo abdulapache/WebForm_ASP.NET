@@ -1,0 +1,8 @@
+F:\Emloyee\SC.BLL\bin\Debug\Project1.dll.config
+F:\Emloyee\SC.BLL\bin\Debug\Project1.dll
+F:\Emloyee\SC.BLL\bin\Debug\Project1.pdb
+F:\Emloyee\SC.BLL\bin\Debug\SC.DAL.dll
+F:\Emloyee\SC.BLL\bin\Debug\SC.DAL.pdb
+F:\Emloyee\SC.BLL\obj\Debug\SC.BLL.csprojResolveAssemblyReference.cache
+F:\Emloyee\SC.BLL\obj\Debug\Project1.dll
+F:\Emloyee\SC.BLL\obj\Debug\Project1.pdb

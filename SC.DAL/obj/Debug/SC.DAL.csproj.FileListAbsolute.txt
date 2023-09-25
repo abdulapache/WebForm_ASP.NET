@@ -1,0 +1,5 @@
+F:\Emloyee\SC.DAL\bin\Debug\SC.DAL.dll.config
+F:\Emloyee\SC.DAL\bin\Debug\SC.DAL.dll
+F:\Emloyee\SC.DAL\bin\Debug\SC.DAL.pdb
+F:\Emloyee\SC.DAL\obj\Debug\SC.DAL.dll
+F:\Emloyee\SC.DAL\obj\Debug\SC.DAL.pdb
